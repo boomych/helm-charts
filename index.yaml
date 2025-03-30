@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2025-03-30T21:15:27.022090565+03:00"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2025-03-30T21:15:49.569010293+03:00"
+    description: A Helm chart to deploy Nginx to the k8s
+    digest: 65d0c7acce2fb5cdd2e7cd47aba0819b63ac9b616ff7ab2d86f08a058f718cd2
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-30T21:15:49.568811783+03:00"
